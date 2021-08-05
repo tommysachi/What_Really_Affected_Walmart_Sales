@@ -1,4 +1,4 @@
-# Walmart Sales
+# Walmart Really Affects Walmart Sales
 Historical Weekly Sales data of 45 Walmart Stores located in different region. This Data includes Holiday Events, Weather Temperature, Fuel Price, Consumer Price Index, and Unemployment Rate Data to analyze whether these datas affecting the weekly sales in Walmart Store. This Data gathered from February 2010 until October 2012.
 
 **Holiday Events**
